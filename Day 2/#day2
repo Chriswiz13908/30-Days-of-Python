@@ -1,0 +1,22 @@
+#Prints the text value Hello, World!
+print('Hello, World!')
+
+#counts the number of characters including spaces
+len('Hello, World!')
+
+#checks the data type
+type('Hello, World!')
+
+#convert number to string
+str(10)
+
+#converts to number
+int('10')
+
+#converts integer to decimal
+float(10)
+
+#takes user input 
+input('Enter your name:')
+
+exit()
